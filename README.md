@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Wordify - Get a random English word and Turkish equivalent😊
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
